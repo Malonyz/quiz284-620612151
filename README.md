@@ -1,4 +1,4 @@
-# Quiz #2 - API
+# Quiz #2 - RESTful API
 
 ### ป้อนข้อมูลนักศึกษา
 
